@@ -1,0 +1,2 @@
+Ch1. 
+Give the definition of reason as the amalgamations of math science and logic.  In reason, a paradoxe or contradiction imply a false assumption that can be hard to find but in the human mind contradiction are possible.
